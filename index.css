@@ -1,0 +1,153 @@
+
+.main{
+background-color: #f8e3ea;
+margin: 0;
+padding: 0;
+height: 100vh;
+}
+  
+.toggle-icon{
+  font-size:25px;
+  cursor: pointer; 
+ color: white;
+  background-color: #b84beb;
+ width: 50px;
+ padding: 12px;
+
+  
+
+}
+
+.toggle-icons{
+  background-color: rgb(245, 243, 243);
+margin-top: 25px;
+color: gray;
+
+} 
+.toggle-icon_3{
+  margin-top: 80px;
+  color: #b84beb;
+  background-color: rgb(245, 243, 243);
+}
+.icon_contain{
+   display: flex;
+   flex-direction: column;
+background-color: rgb(245, 243, 243);
+  height: 80vh;
+  margin-left: 30px;
+  width: 50px;
+  margin-top: 50px;
+}
+
+.rows{
+  display: flex;
+}
+.image_clas{
+  width: 40%;
+  height: 88vh;
+  background-color: white;
+  margin-top: 20px;
+  background-image: url(./taha2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.para{
+padding-top: 85%;
+padding-left: 20%;
+color: white;
+}
+.tah{
+  
+  color: #b84beb;
+
+
+ font-size: 3.4rem;
+ font-family: 'lemonada',sans-serif;
+ font-weight: bolder;
+ text-shadow: .1rem .1rem .3rem #333;
+
+}
+.img-icon{
+  width: 60px;
+  color: aliceblue;
+ 
+}
+.img_cen{
+  margin-left: 25%;
+  margin-top: 5%;
+}
+.toggle-icons_1{
+  background-color: rgb(245, 243, 243);
+  margin-top: 25px;
+  color: #b84beb;
+  
+}
+.about{
+  width: 46%;
+  height: 80vh;
+  margin-top: 50px;
+padding-left: 20px;
+padding-top: 20px;
+  background-color: rgb(245, 243, 243);
+  overflow: scroll;
+}
+.text{
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+  font-size: 1rem;
+ font-weight: 300;
+ padding-right: 20px;
+font-style: oblique;
+}
+.inner_card{
+  margin-top: 15%;
+
+}
+
+.card_img{
+  margin-top: 10px;
+}
+.h5_card{
+  margin-top: 10px;
+}
+.para_card{
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+  font-size: 1rem;
+ font-weight: 300;
+ padding-right: 20px;
+font-style: oblique;
+width: 100%;
+margin-top: 20px;
+}
+.cardf{
+display: flex;
+
+  
+}
+.inner_card_2{
+  margin-top: 22%;
+}
+.fb{
+  color: white;
+  margin-left: 12px;
+
+}
+.ro{
+  width: 35px;
+  height: 30px;
+  
+}
+.cm{
+  color: #b84beb;
+}
+.inner_card_3{
+  margin-top: 15%;
+  margin-left: 50px;
+
+}
+.fb:hover{
+
+  color: #b84beb;
+}
